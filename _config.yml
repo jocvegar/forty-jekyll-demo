@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Jekyll
+subtitle: by JOSE
+email: jocvegar@gmail.com
+description: Just me messing around, building stuff<br /> and learning :).
 baseurl: "/forty-jekyll-demo" # the subpath of your site, e.g. /blog
 url: "https://jocvegar.github.io"
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Jose
+street_address: Here st.
+city: Tegucigalpa
+state: FM
+zip_code: 11101
+country: Hondy
+phone: 9999-9999
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 7
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: http://github.com/jocvegar
+gitlab_url:
+googleplus_url:
+instagram_url: http://instagram.com/jocvegar
+linkedin_url: https://www.linkedin.com/in/jose-carlos-vega/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/joc4
 
 # build settings
 markdown: kramdown
