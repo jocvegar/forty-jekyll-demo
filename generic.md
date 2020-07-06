@@ -1,13 +1,21 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: About
+description: What is this?
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+# I will not kill my sister. I will not kill my sister. I will not kill my sister.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+I'm real proud of you for coming, bro. I know you hate funerals. I'm really more an apartment person. He taught me a code. To survive. I like seafood. I'm going to tell you something that I've never told anyone before.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Makes me a … scientist. I'm generally confused most of the time. I'm going to tell you something that I've never told anyone before. __I have a dark side, too.__ *I'm real proud of you for coming, bro.* I know you hate funerals.
+
+## Somehow, I doubt that. You have a good heart, Dexter.
+
+Hello, Dexter Morgan. Tonight's the night. And it's going to happen again and again. It has to happen. Tonight's the night. And it's going to happen again and again. It has to happen. Cops, another community I'm not part of.
+
+1. I will not kill my sister. I will not kill my sister. I will not kill my sister.
+2. I'm Dexter, and I'm not sure what I am.
+3. I love Halloween. The one time of year when everyone wears a mask … not just me.
